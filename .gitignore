@@ -1,3 +1,6 @@
 .DS_Store
 .gemini/
 scratch/
+.agents/
+.claude/
+skills-lock.json
