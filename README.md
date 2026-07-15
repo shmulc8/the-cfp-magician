@@ -29,12 +29,12 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 
 ## 📂 Repository Structure
 
-*   [`plugin.json`](file:///plugin.json) – Claude/Antigravity plugin metadata.
-*   [`SKILL.md`](file:///skills/the-cfp-magician/SKILL.md) – The core prompt and system instructions for the agent.
-*   [`references/archetypes.md`](file:///skills/the-cfp-magician/references/archetypes.md) – Details and examples of the 6 talk archetypes.
-*   [`references/submission-strategy.md`](file:///skills/the-cfp-magician/references/submission-strategy.md) – Strategy and mindset for maximizing acceptance rates.
-*   [`references/reversim.md`](file:///skills/the-cfp-magician/references/reversim.md) – Tailored tips and guidelines for Reversim Summit.
-*   [`resources/cfp-template.md`](file:///skills/the-cfp-magician/resources/cfp-template.md) – The final output template presented to the user.
+*   [`.claude-plugin/plugin.json`](file:///.claude-plugin/plugin.json) – Claude Code / Antigravity plugin manifest.
+*   [`skills/the-cfp-magician/SKILL.md`](file:///skills/the-cfp-magician/SKILL.md) – The core prompt and system instructions for the agent.
+*   [`skills/the-cfp-magician/references/archetypes.md`](file:///skills/the-cfp-magician/references/archetypes.md) – Details and examples of the 6 talk archetypes.
+*   [`skills/the-cfp-magician/references/submission-strategy.md`](file:///skills/the-cfp-magician/references/submission-strategy.md) – Strategy and mindset for maximizing acceptance rates.
+*   [`skills/the-cfp-magician/references/reversim.md`](file:///skills/the-cfp-magician/references/reversim.md) – Tailored tips and guidelines for Reversim Summit.
+*   [`skills/the-cfp-magician/resources/cfp-template.md`](file:///skills/the-cfp-magician/resources/cfp-template.md) – The final output template presented to the user.
 
 ---
 
