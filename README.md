@@ -1,4 +1,4 @@
-# CFP Writer Skill for Antigravity / Gemini Agent
+# The CFP Magician Skill for Antigravity / Gemini Agent
 
 An AI assistant skill implementing a step-by-step coaching workflow to write, structure, and polish conference talk proposals (CFPs) that actually get accepted. 
 
@@ -29,10 +29,10 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 
 ## 📂 Repository Structure
 
-*   [`SKILL.md`](file:///skills/cfp-writer/SKILL.md) – The core prompt and system instructions for the agent.
-*   [`references/archetypes.md`](file:///skills/cfp-writer/references/archetypes.md) – Details and examples of the 6 talk archetypes.
-*   [`references/submission-strategy.md`](file:///skills/cfp-writer/references/submission-strategy.md) – Strategy and mindset for maximizing acceptance rates.
-*   [`assets/cfp-template.md`](file:///skills/cfp-writer/assets/cfp-template.md) – The final output template presented to the user.
+*   [`SKILL.md`](file:///skills/the-cfp-magician/SKILL.md) – The core prompt and system instructions for the agent.
+*   [`references/archetypes.md`](file:///skills/the-cfp-magician/references/archetypes.md) – Details and examples of the 6 talk archetypes.
+*   [`references/submission-strategy.md`](file:///skills/the-cfp-magician/references/submission-strategy.md) – Strategy and mindset for maximizing acceptance rates.
+*   [`assets/cfp-template.md`](file:///skills/the-cfp-magician/assets/cfp-template.md) – The final output template presented to the user.
 
 ---
 
@@ -41,7 +41,7 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 ### In Google Antigravity
 1. Clone this repository into your active workspace's skills directory:
    ```bash
-   git clone git@github.com:shmulc8/cfp-writer-skill.git skills/cfp-writer
+   git clone git@github.com:shmulc8/the-cfp-magician.git skills/the-cfp-magician
    ```
 2. Antigravity will automatically discover the skill.
 3. Simply mention CFP or talk ideas in your prompt, e.g.:

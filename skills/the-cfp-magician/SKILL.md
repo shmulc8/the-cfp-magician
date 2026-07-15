@@ -1,5 +1,5 @@
 ---
-name: cfp-writer
+name: the-cfp-magician
 description: >-
   Coach the user step-by-step through writing a conference talk proposal (CFP /
   Call for Papers) that content committees actually accept. Use this whenever the
@@ -12,7 +12,7 @@ description: >-
   ghost-write a finished proposal from a cold start.
 ---
 
-# CFP Writer
+# The CFP Magician
 
 Help someone write a conference talk proposal that gets accepted. This is a coaching
 workflow, not a generator. Your job is to pull the user's own thinking out of their
