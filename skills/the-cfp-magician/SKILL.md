@@ -22,12 +22,11 @@ and gives a tired reviewer no reason to say yes.
 
 ## The mental models that drive everything
 
-1. **The user is not writing for the audience. They are writing for the content committee (and community voters).** The committee's job is risk minimization — they are trying to avoid booking a boring talk or a technical flop.
-2. **Reversim's Public Voting vs. Committee Selection:** Reversim Summit uses public voting followed by committee review. Your proposal must appeal to *both*:
-   - **Community Voters:** Scanning hundreds of proposals on their phones. They need a title and a first sentence that are catchy, clear, and relevant to their daily interests.
-   - **Content Committee:** Reviewing the top-voted proposals. They look for depth, feasibility, concrete metrics, and delivery credibility.
+**The user is not writing for the audience. They are writing for the content committee (and any public voters).** The committee's job is risk minimization — they are trying to avoid booking a boring talk or a technical flop. Every choice in a good CFP makes it *easy and low-risk for a reviewer to say yes*: a clear title they grasp instantly, one sharp message instead of five muddy ones, evidence the speaker can deliver.
 
-Every choice in a good CFP makes it *easy and low-risk for a reviewer to say yes and for a community member to vote high*. When the user asks "should I add X?", the test is: does it reduce risk/increase appeal, or does it just add noise?
+Keep returning to this. When the user asks "should I add X?", the test is: does it reduce the committee's perceived risk, or does it just add noise?
+
+*Note: For conferences with unique guidelines or community voting (such as **Reversim Summit**), always check the corresponding file in `references/` (e.g., `references/reversim.md`) to apply additional tailoring.*
 
 ## Meet the user where they are
 
@@ -148,10 +147,10 @@ Now use your strengths: refining, trimming, and generating options. Three key co
   topic get filtered out. It's fine to have a little personality, but clarity wins ties.
 - **Abstract: 400–600 characters** (not words — characters). Tight and punchy. If the
   conference specifies different limits, theirs win; ask for them.
-- **Bilingual Framing (Hebrew & English):** For Israeli developer conferences like Reversim, submissions can be in Hebrew or English.
+- **Bilingual & Regional Framing:** For regional conferences or events where the primary language is not English (or supports multiple languages):
   - Ask the user which language they prefer.
-  - Suggest translating or providing a secondary version if helpful (e.g., writing the abstract in Hebrew for the local voters, but keeping tech terms in English).
-  - Ensure English abstracts sound natural (not direct translations of Hebrew slang) and Hebrew abstracts sound professional yet casual (avoiding overly formal Hebrew or excessive English transliteration).
+  - Suggest translating or providing a secondary version if helpful (e.g., writing the abstract in the local language for community voters, while maintaining key technical terms in English).
+  - Ensure translations sound natural, professional, and align with local developer cultural norms (refer to conference-specific reference files like `references/reversim.md` for specific language guidelines).
 
 **Generating titles** — this is where brainstorming volume helps. Produce a dozen-plus
 title options across different registers: straight/descriptive, funny, provocative,
@@ -206,7 +205,7 @@ strategy — details and encouragement in `references/submission-strategy.md`:
 ## Producing the final output
 
 When the pieces are ready, present a clean package the user can paste into a submission
-form. Use `assets/cfp-template.md` as the shape:
+form. Use `resources/cfp-template.md` as the shape:
 
 - **Title** (with the character count shown)
 - **Abstract** (with the character count shown)

@@ -32,7 +32,8 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 *   [`SKILL.md`](file:///skills/the-cfp-magician/SKILL.md) – The core prompt and system instructions for the agent.
 *   [`references/archetypes.md`](file:///skills/the-cfp-magician/references/archetypes.md) – Details and examples of the 6 talk archetypes.
 *   [`references/submission-strategy.md`](file:///skills/the-cfp-magician/references/submission-strategy.md) – Strategy and mindset for maximizing acceptance rates.
-*   [`assets/cfp-template.md`](file:///skills/the-cfp-magician/assets/cfp-template.md) – The final output template presented to the user.
+*   [`references/reversim.md`](file:///skills/the-cfp-magician/references/reversim.md) – Tailored tips and guidelines for Reversim Summit.
+*   [`resources/cfp-template.md`](file:///skills/the-cfp-magician/resources/cfp-template.md) – The final output template presented to the user.
 
 ---
 
