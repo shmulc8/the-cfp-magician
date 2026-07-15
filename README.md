@@ -40,7 +40,13 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 
 ## 🚀 How to Install and Use
 
-### Via Vercel Skills CLI (Recommended)
+### Inside Claude Code (Plugin Installation)
+If you are using Claude Code, you can install this repository directly as a plugin using the TUI:
+```
+/plugin install github@shmulc8/the-cfp-magician
+```
+
+### Via Vercel Skills CLI
 You can install this skill globally for your AI agent (Claude Code, Cursor, Copilot) using the Vercel Agent Skills CLI:
 ```bash
 npx skills add shmulc8/the-cfp-magician
