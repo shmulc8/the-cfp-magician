@@ -29,6 +29,7 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 
 ## 📂 Repository Structure
 
+*   [`plugin.json`](file:///plugin.json) – Claude/Antigravity plugin metadata.
 *   [`SKILL.md`](file:///skills/the-cfp-magician/SKILL.md) – The core prompt and system instructions for the agent.
 *   [`references/archetypes.md`](file:///skills/the-cfp-magician/references/archetypes.md) – Details and examples of the 6 talk archetypes.
 *   [`references/submission-strategy.md`](file:///skills/the-cfp-magician/references/submission-strategy.md) – Strategy and mindset for maximizing acceptance rates.
@@ -39,12 +40,18 @@ The single biggest failure mode in AI-generated CFPs is producing a fluent but g
 
 ## 🚀 How to Install and Use
 
-### In Google Antigravity
+### Via Vercel Skills CLI (Recommended)
+You can install this skill globally for your AI agent (Claude Code, Cursor, Copilot) using the Vercel Agent Skills CLI:
+```bash
+npx skills add shmulc8/the-cfp-magician
+```
+
+### In Google Antigravity (Local Clone)
 1. Clone this repository into your active workspace's skills directory:
    ```bash
    git clone git@github.com:shmulc8/the-cfp-magician.git skills/the-cfp-magician
    ```
-2. Antigravity will automatically discover the skill.
+2. Antigravity/Claude will automatically discover the plugin and skill.
 3. Simply mention CFP or talk ideas in your prompt, e.g.:
    > *"I have a talk idea about RAG visualization, help me write a CFP for Reversim."*
 
